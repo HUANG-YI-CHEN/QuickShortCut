@@ -1,0 +1,8 @@
+C:\Users\hsuan\source\repos\QuickShortCut\bin\Debug\QuickShortCut.exe
+C:\Users\hsuan\source\repos\QuickShortCut\bin\Debug\QuickShortCut.pdb
+C:\Users\hsuan\source\repos\QuickShortCut\obj\Debug\QuickShortCut.Main.resources
+C:\Users\hsuan\source\repos\QuickShortCut\obj\Debug\QuickShortCut.Properties.Resources.resources
+C:\Users\hsuan\source\repos\QuickShortCut\obj\Debug\QuickShortCut.csproj.GenerateResource.cache
+C:\Users\hsuan\source\repos\QuickShortCut\obj\Debug\QuickShortCut.csproj.CoreCompileInputs.cache
+C:\Users\hsuan\source\repos\QuickShortCut\obj\Debug\QuickShortCut.exe
+C:\Users\hsuan\source\repos\QuickShortCut\obj\Debug\QuickShortCut.pdb
